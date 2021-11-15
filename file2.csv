@@ -1,0 +1,26 @@
+Thu Nov 11 19:57:01 +0000 2021
+1458886501190746116
+1458886501190746116
+"RT @Piniisima: ¿Cómo sabemos que una campaña coordinada fue amplificada?❓❓❓
+
+R. La proporción entre tuits originales contra retuits es muy…"
+False
+"{'hashtags': [], 'symbols': [], 'user_mentions': [{'screen_name': 'Piniisima', 'name': 'Carlos Piña', 'id': 227794959, 'id_str': '227794959', 'indices': [3, 13]}], 'urls': []}"
+"<a href=""http://twitter.com/download/android"" rel=""nofollow"">Twitter for Android</a>"
+""
+""
+""
+""
+""
+"{'id': 106483037, 'id_str': '106483037', 'name': 'Juan C. Correa', 'screen_name': 'jcorrean', 'location': 'Bogotá, D.C., Colombia', 'description': 'Interdisciplinary Scientist.', 'url': 'https://t.co/hYf59MSnom', 'entities': {'url': {'urls': [{'url': 'https://t.co/hYf59MSnom', 'expanded_url': 'https://correajc.com/', 'display_url': 'correajc.com', 'indices': [0, 23]}]}, 'description': {'urls': []}}, 'protected': False, 'followers_count': 317, 'friends_count': 103, 'listed_count': 2, 'created_at': 'Tue Jan 19 18:16:44 +0000 2010', 'favourites_count': 2327, 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'verified': False, 'statuses_count': 1925, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'is_translation_enabled': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1449048000106401792/k1zKa9G5_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1449048000106401792/k1zKa9G5_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/106483037/1560802656', 'profile_link_color': '194990', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': 'EFEFEF', 'profile_text_color': '333809', 'profile_use_background_image': True, 'has_extended_profile': False, 'default_profile': False, 'default_profile_image': False, 'following': False, 'follow_request_sent': False, 'notifications': False, 'translator_type': 'none', 'withheld_in_countries': []}"
+""
+""
+""
+""
+"{'created_at': 'Tue Nov 09 17:49:33 +0000 2021', 'id': 1458129648575991817, 'id_str': '1458129648575991817', 'text': '¿Cómo sabemos que una campaña coordinada fue amplificada?❓❓❓\n\nR. La proporción entre tuits originales contra retuit… https://t.co/YJzJ6cKUgL', 'truncated': True, 'entities': {'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': [{'url': 'https://t.co/YJzJ6cKUgL', 'expanded_url': 'https://twitter.com/i/web/status/1458129648575991817', 'display_url': 'twitter.com/i/web/status/1…', 'indices': [117, 140]}]}, 'source': '<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>', 'in_reply_to_status_id': None, 'in_reply_to_status_id_str': None, 'in_reply_to_user_id': None, 'in_reply_to_user_id_str': None, 'in_reply_to_screen_name': None, 'user': {'id': 227794959, 'id_str': '227794959', 'name': 'Carlos Piña', 'screen_name': 'Piniisima', 'location': 'México', 'description': 'Data Scientist & Data Analyst 💻\nSocial Network Analysis & Data Science 📈 📊\nPostdoc at IIMAS @IIMAS_UNAM 🇲🇽\nPh.D. in Computer Science @Uni_of_Essex 🇬🇧', 'url': None, 'entities': {'description': {'urls': []}}, 'protected': False, 'followers_count': 14726, 'friends_count': 347, 'listed_count': 177, 'created_at': 'Fri Dec 17 20:53:31 +0000 2010', 'favourites_count': 6644, 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'verified': False, 'statuses_count': 2715, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'is_translation_enabled': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/854056120108802048/z6pVLvKE_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/854056120108802048/z6pVLvKE_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/227794959/1603132585', 'profile_link_color': '3B94D9', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': True, 'has_extended_profile': True, 'default_profile': False, 'default_profile_image': False, 'following': True, 'follow_request_sent': False, 'notifications': False, 'translator_type': 'none', 'withheld_in_countries': []}, 'geo': None, 'coordinates': None, 'place': None, 'contributors': None, 'is_quote_status': False, 'retweet_count': 55, 'favorite_count': 119, 'favorited': True, 'retweeted': True, 'possibly_sensitive': False, 'lang': 'es'}"
+False
+55
+0
+True
+True
+es
